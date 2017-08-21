@@ -1,0 +1,31 @@
+Body{font-family: Helvetica;}
+.head-sec{background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
+h1{font-size: 70px;
+font-weight: bold;
+color: white;
+text-align:center;}
+ul{text-align: center;
+  list-style-type: none;
+text-decoration: underline;
+color:white;}
+.process{text-align: center;}
+h2{font-size: 32px;
+font-weight: bold;}
+h3{font-size: 23px;}
+h4{font-size: 14px;}
+.city{text-align: center;
+  color:white;
+  font-size:23px;
+  font-weight: bold;
+background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
+.final-sec{text-align: center;}
+font-weight: bold;}
+h3{font-size: 23px;}
+h4{font-size: 14px;}
+footer{text-align:left;
+font-size: 11px;
+color: white;
+background-color: dimgray;}
+.refer{font-size: 18px;
+color: white;}
+text-decoration: underline;}
